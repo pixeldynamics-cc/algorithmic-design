@@ -2,5 +2,9 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="algorithmic_design.cpp" />
+    <ClCompile Include="week_1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="week_1.h" />
   </ItemGroup>
 </Project>
